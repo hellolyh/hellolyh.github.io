@@ -2,8 +2,8 @@
 home: true
 layout: BlogHome
 icon: house
-title: 博客主页
-heroImage: https://wsrv.nl/?url=hellolyh.github.io/logo.png&w=300&h=300&fit=cover&mask=circle
+title: 主页
+heroImage: logo.png
 heroText: LiuYuhe's Blog
 heroFullScreen: true
 tagline: 雄关漫道真如铁，而今迈步从头越。

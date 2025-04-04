@@ -11,8 +11,8 @@ export default hopeTheme({
     url: "https://github.com/hellolyh",
   },
 
-  logo: "https://wsrv.nl/?url=hellolyh.github.io/logo.png&w=300&h=300&fit=cover&mask=circle",
-  favicon: "https://wsrv.nl/?url=hellolyh.github.io/favicon.ico&w=300&h=300&fit=cover&mask=circle",
+  logo: "/logo.png",
+  favicon: "/favicon.ico",
 
   repo: "hellolyh/hellolyh.github.io",
 

@@ -25,13 +25,13 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "微信公众号：【爱编程的阿彬】",
   displayFooter: true,
 
   // 博客相关
   blog: {
     description: "I do open source :)",
-    intro: "/intro.html",
+    // intro: "/intro.html",
     medias: {
       // Baidu: "https://example.com",
       // BiliBili: "https://example.com",
@@ -72,14 +72,14 @@ export default hopeTheme({
   },
 
   // 加密配置
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": {
-        hint: "Password: 1234",
-        password: "1234",
-      },
-    },
-  },
+  // encrypt: {
+  //   config: {
+  //     "/posts/demo/encrypt.html": {
+  //       hint: "Password: 1234",
+  //       password: "1234",
+  //     },
+  //   },
+  // },
 
   // 多语言配置
   metaLocales: {
